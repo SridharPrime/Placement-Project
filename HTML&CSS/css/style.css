@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    
+    background-color: rgb(109, 109, 109);
+}
+.login{
+    background-color: rgb(44, 228, 228);
+    width:fit-content;
+    margin: auto;
+    height: 300px;
+    padding-top: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+}
+.signin h1{
+    color: rgb(21, 24, 179);
+}
+.btn button{
+    border-radius: 10px;
+}
+.signin input{
+    border-radius: 5px;
+}
