@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+
+}
+.login{
+    background-color: rgb(101, 93, 173);
+    width:fit-content;
+    margin-left: 400px;
+    height: 300px;
+    padding-top: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+}
+.signin h1{
+    color: rgb(163, 118, 81);
+}
+.btn button{
+    border-radius: 10px;
+}
+.signin input{
+    border-radius: 5px;
+}
+.DATE p{
+    padding-right: 1150px;
+}
